@@ -1,0 +1,66 @@
+/* Inserta tu CSS aqui*/
+*{
+	font-family: Oswald;
+}
+p{
+	text-align: center;
+}
+nav a{
+	padding: 10px 0px;
+	color:black;
+	text-decoration: none;	
+	padding-left: 185px;
+}
+li{
+	list-style: none;	
+	display: inline;
+}
+.fondo{
+	background-image: url("../images/background.jpg");
+	background-size: 100%;
+	width: 100%;
+	height: 385px;
+	position: relative;	
+}
+.logo{
+	background-image: url("../images/logo.png");
+	width: 5%;
+    height: 70px;
+    position: relative;
+    top: 100px;
+    left: 600px;
+}
+.your{
+	color:#FFFFFF;
+	position: relative;
+    top: 100px;
+    left: 600px;
+}	 
+.banner{ 
+	width: 50px;  
+    border-radius:150px;
+    border:1px solid;  
+}
+.texto{
+	color:#8F03E3; 
+}
+.cat{
+	width: 150px;
+	border-radius:150px;
+	padding: 75px;  
+}
+.fondobanner{
+	background-image: url("../images/tile1.png");
+	background-size: 100%;
+	height: 300px;	
+}
+
+.banner{ 
+	width: 50%;
+	border-radius:190px;
+	border:2px solid #8F03E3;
+}
+.profile{
+	border:1px solid;
+}
+
